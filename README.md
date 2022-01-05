@@ -1,2 +1,1 @@
-The BDN-HAC model
-The model is created using GeNIe Modeler
+All the files regarding to the project are published here.
